@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/nakshay/QuckTest/issues"
   },
-  "homepage": "https://github.com/nakshay/QuckTest#readme"
+  "homepage": "https://github.com/nakshay/QuckTest#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
 }
